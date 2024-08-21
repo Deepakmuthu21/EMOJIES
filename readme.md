@@ -1,0 +1,1 @@
+This repository show how to display random emojis in public api using FETCH

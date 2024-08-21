@@ -1,0 +1,17 @@
+ body{
+    background-color: rgb(129, 97, 97);
+ }   
+.iamge{
+   font-size: 500px;
+}
+.container{
+    text-align: center;
+}
+
+button{
+    font-size: medium;
+}
+
+.content{
+    background-color: rgb(208, 181, 233);
+}
